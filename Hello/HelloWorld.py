@@ -9,8 +9,7 @@
 class Hello:
 
     def __init__(self):
-        print("this is init")
-'''test'''		
+        print("this is init")		
 
     def hello(self):
         print("hello world! This is my first git project launch!")
